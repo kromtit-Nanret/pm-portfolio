@@ -64,7 +64,7 @@ Flashboord is live. Not perfect. Not finished. But real enough to learn from.
 OOH planning rarely feels slow at first. Maps, calls, rate cards, follow-ups, spreadsheets — it feels familiar. You only notice the time loss when deadlines tighten. What stood out to me wasn't just the 18 hours teams spent gathering availability — it was how normal that friction felt to them. The inefficiency had been accepted as part of the job. That's the systemic problem we're solving.
 
 **What I did:**
-- Onboarded 10+ media owners to the platform including New Crystal, Folham, Bowbonish, and Breandleep
+- Onboarded 10+ media owners to the platform including New Crystal, Folham, Bowbonish, Cueball communication, Docu2data, motion365 and Breandleep
 - Achieved **70% activation rate** (7 of 10 completing full inventory listings)
 - Led user testing sessions — watching where users hesitated, counting unnecessary clicks, identifying UX friction before it became churn
 - Analyzed campaign performance data and user engagement metrics to drive feature prioritization
